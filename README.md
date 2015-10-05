@@ -1,4 +1,4 @@
-# Crystal Ball
+# Flask extended template
 
 ## Purpose
 This project is a basic Flask application with some extended features. It intends to be :

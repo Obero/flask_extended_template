@@ -10,7 +10,7 @@ This project is a basic Flask application with some extended features. It intend
 - Config file example
 - Templates organisation example, with a main template and specific ones wich inherits from the main
 - Interface example, wich proposes : navigation menu, main container and sticky footer
-- SQL Alchemy module, based on GitHub SQLAlchemy custom init file project (LINK)
+- SQL Alchemy module, based on GitHub SQLAlchemy custom init file project (https://github.com/Obero/custom_sqla_init)
 
 ## Dependencies
 Python 2.7
